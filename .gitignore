@@ -1,3 +1,6 @@
 /CAD/__Previews
 /CAD/History
 /CAD/AVR64DA64-BREAKOUT
+/CAD/Project Logs for AVR64DA64-BREAKOUT
+*.drc
+*.html
