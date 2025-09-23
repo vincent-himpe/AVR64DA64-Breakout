@@ -51,6 +51,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=AVR64dX64 Information.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMEWTZKP
+
+[Document2]
 DocumentPath=AVR64DA64-BREAKOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNRUQLIY
 
-[Document2]
+[Document3]
 DocumentPath=AVR64DA64-IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQZCCTWW
 
-[Document3]
+[Document4]
 DocumentPath=PCAL9555IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSQKJLBX
 
-[Document4]
+[Document5]
 DocumentPath=AVR64DA64-BREAKOUT\AVR64DA64-BREAKOUT.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGHTWKKQ
 
-[Document5]
+[Document6]
 DocumentPath=AVR64DA64-BREAKOUT Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVBFROTC
 
-[Document6]
+[Document7]
 DocumentPath=AVR64DA64-BREAKOUT Cover Sheet.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HERGIXBU
 
-[Document7]
+[Document8]
 DocumentPath=AVR64DA64-BREAKOUT Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRIWHSPG
 
-[Document8]
+[Document9]
 DocumentPath=AVR64DA64-BREAKOUT.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=AVR64DA64-BREAKOUT.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,6 +270,10 @@ ParamVariationCount=0
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AVR64DA64-BREAKOUT\Design Rule Check - AVR64DA64-BREAKOUT.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=SCHdrafter
+Value=Vincent Himpe
 
 [Configuration1]
 Name=Sources
@@ -745,6 +766,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
