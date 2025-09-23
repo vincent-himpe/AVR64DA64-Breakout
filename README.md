@@ -5,8 +5,8 @@ The board was made out of necessity to have a simple development board for this 
 
 ## Features:
 
-UPDI programmer and UART
-It has an on-board UPDI programmer with HV capability to reset a bricked processor. The programmer has an auto-switch between Programming and UART mode. It uses a standard UDB connector and a CH340 type USB<>UART converter.
+UPDI programmer and UART.
+It has an on-board UPDI programmer with HV capability to reset a bricked processor. The programmer has an auto-switch between Programming and UART mode. It uses a standard UDB connector and a CH340 type USB<>UART converter. Switching between UART and UPDI is controlled by the D
 
 ## I/O 
 
