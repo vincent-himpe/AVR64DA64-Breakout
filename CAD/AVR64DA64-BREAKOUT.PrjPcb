@@ -119,7 +119,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QSQKJLBX
 
 [Document5]
-DocumentPath=AVR64DA64-BREAKOUT\AVR64DA64-BREAKOUT.PcbDoc
+DocumentPath=AVR64DA64-BREAKOUT.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
